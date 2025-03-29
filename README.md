@@ -25,6 +25,8 @@ Proxy-Check/
    git clone https://github.com/yourusername/Proxy-Check.git
    cd Proxy-Check
 2. Install dependencies:
+   ```sh
    pip install -r requirements.txt
 3. Run the Script:
-   python proxy_check.py
+   ```sh
+   python3 proxy_check.py
