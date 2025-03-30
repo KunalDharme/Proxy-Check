@@ -1,5 +1,8 @@
 # Proxy-Check
 
+## Author
+Developed by Kunal Dharme.
+
 ## Overview
 **Proxy-Check** is a Python tool that verifies whether a given proxy is working and identifies its type (SOCKS4, SOCKS5, HTTP, or HTTPS). It allows users to check a single proxy or scan a list of proxies from a file.
 
