@@ -34,5 +34,8 @@ Proxy-Check/
    ```sh
    python3 proxy_check.py
 
+## License
+This project is licensed under the MIT License.
+
 ## Author
 Developed by Kunal Dharme.
